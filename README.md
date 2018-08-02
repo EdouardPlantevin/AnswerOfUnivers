@@ -3,6 +3,8 @@
 
 <h5>Heroku (lien du site)</h5>
     >  <a href="https://guarded-shelf-99883.herokuapp.com/">La réponse en ligne</a>
+    
+   le profil example est email: user@example.com  , mot de passe : foobar
 
 <h5>Github</h5>
 
